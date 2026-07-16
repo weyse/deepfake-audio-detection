@@ -106,7 +106,11 @@ The full write-up and slides are in `docs/`:
 
 ## Team
 
-Kelompok 3 — *(add names)*
+Kelompok 3 — Bryan Situmorang (00000092415)
+             Linda Sundoko (00000068320)
+             Reuben Christoper Lengkong (00000056873)  		 
+             Anastasia Br Sidebang (00000083222)   			
+             Nathanael Aegidius Widjaja (00000082258)
 
 ## Built with
 
