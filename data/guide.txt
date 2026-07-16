@@ -1,0 +1,5 @@
+please download the dataset here:
+
+https://www.kaggle.com/datasets/mohammedabdeldayem/the-fake-or-real-dataset
+
+download the for-norm set (normalized, non trimmed)
